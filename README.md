@@ -1,5 +1,7 @@
 **Football Player Detection Using (Computer Vision & Image Processing)**
 
+This project detects football players using Python, OpenCV, and NumPy. It applies Computer Vision and Image Processing techniques to identify and track players from match videos. The system helps analyze player movement and positioning simply and efficiently.
+
 **🧠 Installation & Setup**
 
 **Step 1**
